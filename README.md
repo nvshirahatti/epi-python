@@ -4,4 +4,5 @@
 - [x] Chapter 4. Primitive Types
 - [ ] Chapter 5. Arrays
   - [x] Dutch Flag Partition
-  - [x] Plus One
+  - [x] Increment an Arbitrary-precision Integer
+  - [x] Multiply Two Arbitrary-precision Integers
