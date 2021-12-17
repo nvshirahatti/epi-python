@@ -25,6 +25,7 @@
   - [ ] ...
 
 - [ ] Chapter 7. Linked Lists
+
   - [ ] Bootcamp 12/20
   - [ ] Merge Two Sorted Lists 12/20
   - [ ] Reverse a Single Sublist 12/21
