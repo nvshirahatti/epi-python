@@ -18,8 +18,8 @@
 
 - [ ] Chapter 6. Strings
 
-  - [ ] Bootcamp 12/18
-  - [ ] Interconvert Strings and Integers 12/18
+  - [x] Bootcamp 12/18
+  - [x] Interconvert Strings and Integers 12/18
   - [ ] Base Conversion 12/19
   - [ ] Compute the Spreadsheet Column Encoding 12/19
   - [ ] ...
