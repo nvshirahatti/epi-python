@@ -20,14 +20,14 @@
 
   - [x] Bootcamp 12/18
   - [x] Interconvert Strings and Integers 12/18
-  - [ ] Base Conversion 12/19
-  - [ ] Compute the Spreadsheet Column Encoding 12/19
+  - [x] Base Conversion 12/20
+  - [x] Compute the Spreadsheet Column Encoding 12/20
   - [ ] ...
 
 - [ ] Chapter 7. Linked Lists
 
-  - [ ] Bootcamp 12/20
-  - [ ] Merge Two Sorted Lists 12/20
-  - [ ] Reverse a Single Sublist 12/21
-  - [ ] Test for Cyclicity 12/21
+  - [ ] Bootcamp 12/21
+  - [ ] Merge Two Sorted Lists 12/21
+  - [ ] Reverse a Single Sublist 12/22
+  - [ ] Test for Cyclicity 12/22
   - [ ] ...
