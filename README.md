@@ -26,8 +26,8 @@
 
 - [ ] Chapter 7. Linked Lists
 
-  - [ ] Bootcamp 12/21
-  - [ ] Merge Two Sorted Lists 12/21
-  - [ ] Reverse a Single Sublist 12/22
-  - [ ] Test for Cyclicity 12/22
+  - [ ] Bootcamp 01/09
+  - [ ] Merge Two Sorted Lists 01/09
+  - [ ] Reverse a Single Sublist 01/10
+  - [ ] Test for Cyclicity 01/10
   - [ ] ...
