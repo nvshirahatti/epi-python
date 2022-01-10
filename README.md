@@ -28,6 +28,6 @@
 
   - [x] Bootcamp 01/09
   - [x] Merge Two Sorted Lists 01/09
-  - [ ] Reverse a Single Sublist 01/10
-  - [ ] Test for Cyclicity 01/10
+  - [x] Reverse a Single Sublist 01/10
+  - [-] Test for Cyclicity 01/10
   - [ ] ...
