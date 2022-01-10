@@ -1,9 +1,8 @@
-from typing import List
 from list_node import ListNode
 
 
 # O(n) time | O(1) space
-def reverse_sublist(L, start, finish):
+def reverse_sublist(L: list, start: int, finish: int):
     # Before: 11 -> 3 -> 5 -> 7 -> 2
     #         0     1    2    3    4
     # After:  11 -> 7 -> 5 -> 3 -> 2
@@ -29,4 +28,4 @@ if __name__ == "__main__":
     print(f"Before: {L}")
     start = 2  # 2th position (not index)
     finish = 4  # 4th position (not index)
-    print(f"After: {reverse_sublist(L, start, finish)}")
+    print(f"After:  {reverse_sublist(L, start, finish)}")
