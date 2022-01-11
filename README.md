@@ -29,5 +29,5 @@
   - [x] Bootcamp 01/09
   - [x] Merge Two Sorted Lists 01/09
   - [x] Reverse a Single Sublist 01/10 -> LeetCode 92
-  - [-] Test for Cyclicity 01/10
+  - [x] Test for Cyclicity 01/11 -> LeetCode 141, 142
   - [ ] ...
