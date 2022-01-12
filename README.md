@@ -31,3 +31,11 @@
   - [x] Reverse a Single Sublist 01/10 -> LeetCode 92
   - [x] Test for Cyclicity 01/11 -> LeetCode 141, 142
   - [ ] ...
+
+- [ ] Chapter 8. Stacks and Queues
+
+  - [x] Stack Bootcamp 01/12
+  - [x] Implement a Stack with max API 01/12 -> LeetCode 155
+  - [ ] Evaluate RPN Expressions 01/13
+  - [ ] Test a String over {} () [] for Well-formedness 01/13
+  - [ ] ...
