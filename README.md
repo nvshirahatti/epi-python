@@ -36,6 +36,6 @@
 
   - [x] Stack Bootcamp 01/12
   - [x] Implement a Stack with max API 01/12 -> LeetCode 155
-  - [ ] Evaluate RPN Expressions 01/13
+  - [x] Evaluate RPN Expressions 01/13
   - [ ] Test a String over {} () [] for Well-formedness 01/13
   - [ ] ...
