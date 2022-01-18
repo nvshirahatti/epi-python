@@ -35,7 +35,15 @@
 - [ ] Chapter 8. Stacks and Queues
 
   - [x] Stack Bootcamp 01/12
-  - [x] Implement a Stack with max API 01/12 -> LeetCode 155
-  - [x] Evaluate RPN Expressions 01/13
-  - [x] Test a String over {} () [] for Well-formedness 01/17
+  - [x] 8.1 Implement a Stack with max API 01/12 -> LC 155
+  - [x] 8.2 Evaluate RPN Expressions 01/13
+  - [x] 8.3 Test a String over {} () [] for Well-formedness 01/17 -> LC 20
+  - [ ] ...
+
+- [ ] Chapter 9. Binary Trees
+
+  - [x] Bootcamp 01/18
+  - [ ] 9.1 Test if Binary Tree is Height-balanced 01/18
+  - [ ] 9.2 Test if Binary Tree is Symmetric 01/19
+  - [ ] 9.3 Compute the Lowest Common Ancestor in a Binary Tree 01/19
   - [ ] ...
