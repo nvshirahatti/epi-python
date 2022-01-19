@@ -1,27 +1,29 @@
 from functools import reduce
+from inspect import stack
 
 
 # O(n) time | O(n) space
 def evaluate_rpn(rpn_expression):
-    sln = []
+    stack = []
     DELIMITER = ","
     OPERATORS = {
-        "+": lambda acc, cur: acc + cur,
-        "-": lambda acc, cur: acc - cur,
-        "*": lambda acc, cur: acc * cur,
-        "/": lambda acc, cur: acc / cur,
+        "+": lambda y, x: x + y,
+        "-": lambda y, x: x - y,
+        "*": lambda y, x: x * y,
+        "/": lambda y, x: int(x / y),
     }
 
-    for token in RPN_expression.split(DELIMITER):
+    for token in rpn_expression.split(DELIMITER):
         if token in OPERATORS:
-            sln = [reduce(OPERATORS[token], sln)]
+            stack.append(OPERATORS[token](stack.pop(), stack.pop()))
         else:
-            sln.append(int(token))
+            stack.append(int(token))
 
-    return sln[-1]
+    return stack.pop()
 
 
 if __name__ == "__main__":
-    rpn_expression = "3,4,5,+,2,*,1,+"
-    sln = evaluate_rpn(rpn_expression)
-    print(sln)
+    assert evaluate_rpn("3,4,+,2,*,1,+") == 15
+    assert evaluate_rpn("4,13,5,/,+") == 6
+    assert evaluate_rpn("10,6,9,3,+,-11,*,/,*,17,+,5,+") == 22
+    print("All tests passed!")
