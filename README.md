@@ -28,22 +28,22 @@
 
   - [x] Bootcamp 01/09
   - [x] Merge Two Sorted Lists 01/09
-  - [x] Reverse a Single Sublist 01/10 -> LeetCode 92
-  - [x] Test for Cyclicity 01/11 -> LeetCode 141, 142
+  - [x] Reverse a Single Sublist 01/10 -> LC 92
+  - [x] Test for Cyclicity 01/11 -> LC 141, 142
   - [ ] ...
 
 - [ ] Chapter 8. Stacks and Queues
 
   - [x] Stack Bootcamp 01/12
   - [x] 8.1 Implement a Stack with max API 01/12 -> LC 155
-  - [x] 8.2 Evaluate RPN Expressions 01/13
+  - [x] 8.2 Evaluate RPN Expressions 01/13 -> LC 150
   - [x] 8.3 Test a String over {} () [] for Well-formedness 01/17 -> LC 20
   - [ ] ...
 
 - [ ] Chapter 9. Binary Trees
 
   - [x] Bootcamp 01/18
-  - [ ] 9.1 Test if Binary Tree is Height-balanced 01/18
+  - [x] 9.1 Test if Binary Tree is Height-balanced 01/18 -> LC 110, 104
   - [ ] 9.2 Test if Binary Tree is Symmetric 01/19
   - [ ] 9.3 Compute the Lowest Common Ancestor in a Binary Tree 01/19
   - [ ] ...
