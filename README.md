@@ -44,6 +44,6 @@
 
   - [x] Bootcamp 01/18
   - [x] 9.1 Test if Binary Tree is Height-balanced 01/18 -> LC 110, 104
-  - [ ] 9.2 Test if Binary Tree is Symmetric 01/19
-  - [ ] 9.3 Compute the Lowest Common Ancestor in a Binary Tree 01/19
+  - [x] 9.2 Test if Binary Tree is Symmetric 01/20
+  - [ ] 9.3 Compute the Lowest Common Ancestor in a Binary Tree 01/20
   - [ ] ...
