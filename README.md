@@ -47,3 +47,12 @@
   - [x] 9.2 Test if Binary Tree is Symmetric 01/20 -> LC 101
   - [x] 9.3 Compute the Lowest Common Ancestor in a Binary Tree 01/23 -> LC 93
   - [ ] ...
+  - Note: Chapter 9 requires more practice
+
+- Chapter 15. Recursion
+
+  - [ ] Bootcamp 01/23
+  - [ ] 15.1 The Towers of Hanoi Problem 01/23
+  - [ ] 15.2 Generate All Nonattacking Places of n-Queens
+  - [ ] 15.3 Generate Permutations
+  - [ ] ...
