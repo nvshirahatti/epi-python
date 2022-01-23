@@ -51,8 +51,8 @@
 
 - Chapter 15. Recursion
 
-  - [ ] Bootcamp 01/23
-  - [ ] 15.1 The Towers of Hanoi Problem 01/23
+  - [x] Bootcamp 01/23
+  - [x] 15.1 The Towers of Hanoi Problem 01/23
   - [ ] 15.2 Generate All Nonattacking Places of n-Queens
   - [ ] 15.3 Generate Permutations
   - [ ] ...
