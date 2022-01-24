@@ -49,6 +49,14 @@
   - [ ] ...
   - Note: Chapter 9 requires more practice
 
+- [ ] Chapter 10. Heaps
+
+  - [x] Bootcamp 01/24
+  - [x] 10.1 Merge sorted files 01/24
+  - [ ] 10.2 Sort an increasing-decreasing array 01/25
+  - [ ] 10.3 Sort an almost-sorted array 01/25
+  - [ ] ...
+
 - Chapter 15. Recursion
 
   - [x] Bootcamp 01/23
