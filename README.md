@@ -52,15 +52,22 @@
 - [ ] Chapter 10. Heaps
 
   - [x] Bootcamp 01/24
-  - [x] 10.1 Merge sorted files 01/24
-  - [x] 10.2 Sort an increasing-decreasing array 01/25
-  - [ ] 10.3 Sort an almost-sorted array 01/25
+  - [x] 10.1 Merge Sorted Files 01/24
+  - [x] 10.2 Sort an Increasing-Decreasing Array 01/25
+  - [x] 10.3 Sort an Almost-Sorted Array 01/25
   - [ ] ...
+
+- [ ] Chapter 11. Searching
+
+  - [ ] Bootcamp 01/26
+  - [ ] 11.1 Search a Sorted Array for First Occurrence of k 01/26
+  - [ ] 11.2 Search a Sorted Array for Entry Equal to its Index
+  - [ ] 11.3 Search a Cyclically Sorted Array
 
 - Chapter 15. Recursion
 
   - [x] Bootcamp 01/23
   - [x] 15.1 The Towers of Hanoi Problem 01/23
-  - [-] 15.2 Generate All Nonattacking Places of n-Queens 01/24 -> LC 51 (Hard)
-  - [-] 15.3 Generate Permutations 01/24 -> LC 46 (Medium)
+  - [ ] 15.2 Generate All Nonattacking Places of n-Queens 01/24 -> LC 51 (Hard)
+  - [ ] 15.3 Generate Permutations 01/24 -> LC 46 (Medium)
   - [ ] ...
