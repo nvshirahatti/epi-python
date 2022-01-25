@@ -53,7 +53,7 @@
 
   - [x] Bootcamp 01/24
   - [x] 10.1 Merge sorted files 01/24
-  - [ ] 10.2 Sort an increasing-decreasing array 01/25
+  - [x] 10.2 Sort an increasing-decreasing array 01/25
   - [ ] 10.3 Sort an almost-sorted array 01/25
   - [ ] ...
 
