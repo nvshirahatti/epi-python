@@ -59,8 +59,8 @@
 
 - [ ] Chapter 11. Searching
 
-  - [ ] Bootcamp 01/26
-  - [ ] 11.1 Search a Sorted Array for First Occurrence of k 01/26
+  - [x] Bootcamp 01/26
+  - [x] 11.1 Search a Sorted Array for First Occurrence of k 01/26
   - [ ] 11.2 Search a Sorted Array for Entry Equal to its Index
   - [ ] 11.3 Search a Cyclically Sorted Array
 
