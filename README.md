@@ -61,8 +61,8 @@
 
   - [x] Bootcamp 01/26
   - [x] 11.1 Search a Sorted Array for First Occurrence of k 01/26 -> LC 34
-  - [ ] 11.2 Search a Sorted Array for Entry Equal to its Index
-  - [ ] 11.3 Search a Cyclically Sorted Array
+  - [x] 11.2 Search a Sorted Array for Entry Equal to its Index 01/27
+  - [ ] 11.3 Search a Cyclically Sorted Array 01/27
 
 - Chapter 15. Recursion
 
