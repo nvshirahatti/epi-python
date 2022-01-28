@@ -61,8 +61,17 @@
 
   - [x] Bootcamp 01/26
   - [x] 11.1 Search a Sorted Array for First Occurrence of k 01/26 -> LC 34
-  - [x] 11.2 Search a Sorted Array for Entry Equal to its Index 01/27
-  - [x] 11.3 Search a Cyclically Sorted Array 01/27
+  - [x] 11.2 Search a Sorted Array for Entry Equal to its Index 01/27 -> LC -> LC 1064
+  - [x] 11.3 Search a Cyclically Sorted Array 01/27 -> LC 153
+  - [ ] ...
+
+- [ ] Chapter 12. Hash Tables
+
+  - [ ] Bootcamp
+  - [ ] 12.1 Test for Palindromic Permutation
+  - [ ] 12.2
+  - [ ]
+  - [ ] ...
 
 - Chapter 15. Recursion
 
