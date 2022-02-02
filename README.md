@@ -67,10 +67,10 @@
 
 - [ ] Chapter 12. Hash Tables
 
-  - [ ] Bootcamp
-  - [ ] 12.1 Test for Palindromic Permutation
-  - [ ] 12.2
-  - [ ]
+  - [ ] Bootcamp 02/02
+  - [ ] 12.1 Test for Palindromic Permutation 02/02
+  - [ ] 12.2 Is an Anonymous Letter Constructible 02/03
+  - [ ] 12.3 Implement an ISBN Cache 02/03
   - [ ] ...
 
 - Chapter 15. Recursion
