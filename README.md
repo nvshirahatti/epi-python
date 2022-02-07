@@ -67,9 +67,9 @@
 
 - [ ] Chapter 12. Hash Tables
 
-  - [ ] Bootcamp 02/02
-  - [ ] 12.1 Test for Palindromic Permutation 02/02
-  - [ ] 12.2 Is an Anonymous Letter Constructible 02/03
+  - [x] Bootcamp 02/02
+  - [x] 12.1 Test for Palindromic Permutation 02/02
+  - [x] 12.2 Is an Anonymous Letter Constructible 02/07 -> LC 383
   - [ ] 12.3 Implement an ISBN Cache 02/03
   - [ ] ...
 
