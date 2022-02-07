@@ -70,7 +70,7 @@
   - [x] Bootcamp 02/02
   - [x] 12.1 Test for Palindromic Permutation 02/02
   - [x] 12.2 Is an Anonymous Letter Constructible 02/07 -> LC 383
-  - [ ] 12.3 Implement an ISBN Cache 02/03
+  - [x] 12.3 Implement an ISBN Cache 02/07A -> LC 146
   - [ ] ...
 
 - Chapter 15. Recursion
