@@ -21,7 +21,7 @@ class LRUCache:
 
     def insert(self, isbn, price):
         if isbn in self._isbn_price_table:
-            price = self._isbn_price_table.pop(isbn)
+            self._isbn_price_table.pop(isbn)
         elif self._capacity <= len(self._isbn_price_table):
             self._isbn_price_table.popitem(last=False)
         self._isbn_price_table[isbn] = price
