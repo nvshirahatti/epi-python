@@ -73,6 +73,14 @@
   - [x] 12.3 Implement an ISBN Cache 02/07A -> LC 146
   - [ ] ...
 
+- [ ] Chapter 13. Sorting
+
+  - [x] Bootcamp 02/09
+  - [x] 13.1 Compute Intersection of Two Sorted Arrays
+  - [ ] 13.2 Merge Two Sorted Arrays
+  - [ ] 13.3 Remove First-name Dupplicates
+  - [ ] ...
+
 - Chapter 15. Recursion
 
   - [x] Bootcamp 01/23
