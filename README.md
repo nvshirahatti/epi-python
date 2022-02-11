@@ -78,7 +78,7 @@
   - [x] Bootcamp 02/09
   - [x] 13.1 Compute Intersection of Two Sorted Arrays
   - [x] 13.2 Merge Two Sorted Arrays -> LC 88
-  - [ ] 13.3 Remove First-name Dupplicates
+  - [x] 13.3 Remove First-name Dupplicates -> LC 26
   - [ ] ...
 
 - Chapter 15. Recursion

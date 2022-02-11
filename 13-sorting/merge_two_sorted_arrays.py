@@ -1,6 +1,7 @@
 from typing import List
 
 
+# O(m + n) time | O(1) space
 def merge_two_sorted_arrays(A: List[int], m: int, B: List[int], n: int) -> None:
     i = len(A) - 1
     m -= 1
