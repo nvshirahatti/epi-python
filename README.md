@@ -84,7 +84,7 @@
 - [ ] Chapter 14. Binary Search Trees
 
   - [x] Bootcamp 02/16
-  - [ ] 14.1 Test if a Binary Tree Satisfies the BST Property 02/17
+  - [x] 14.1 Test if a Binary Tree Satisfies the BST Property 02/17 -> LC 98
   - [ ] 14.2 Find the First Key Greater Than a Given Value in a BST 02/18
   - [ ] 14.3 Find the K Largest Elements in BST 02/19
   - [ ] ...
