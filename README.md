@@ -76,9 +76,17 @@
 - [ ] Chapter 13. Sorting
 
   - [x] Bootcamp 02/09
-  - [x] 13.1 Compute Intersection of Two Sorted Arrays
-  - [x] 13.2 Merge Two Sorted Arrays -> LC 88
-  - [x] 13.3 Remove First-name Dupplicates -> LC 26
+  - [x] 13.1 Compute Intersection of Two Sorted Arrays 02/09
+  - [x] 13.2 Merge Two Sorted Arrays 02/11 -> LC 88
+  - [x] 13.3 Remove First-name Dupplicates 02/11 -> LC 26
+  - [ ] ...
+
+- [ ] Chapter 14. Binary Search Trees
+
+  - [x] Bootcamp 02/16
+  - [ ] 14.1 Test if a Binary Tree Satisfies the BST Property 02/17
+  - [ ] 14.2 Find the First Key Greater Than a Given Value in a BST 02/18
+  - [ ] 14.3 Find the K Largest Elements in BST 02/19
   - [ ] ...
 
 - Chapter 15. Recursion
