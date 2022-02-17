@@ -1,5 +1,9 @@
+from bstnode import BSTNode
+
 # O(n) time | O(h) space (aux) | h: depth/height
-def is_binary_tree_bst(root, low_range=float("-inf"), high_range=float("inf")):
+def is_binary_tree_bst(
+    root: type[BSTNode], low_range=float("-inf"), high_range=float("inf")
+) -> bool:
     if not root:
         return True
 
