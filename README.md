@@ -85,7 +85,7 @@
 
   - [x] Bootcamp 02/16
   - [x] 14.1 Test if a Binary Tree Satisfies the BST Property 02/17 -> LC 98
-  - [ ] 14.2 Find the First Key Greater Than a Given Value in a BST 02/18
+  - [x] 14.2 Find the First Key Greater Than a Given Value in a BST 02/18 -> None
   - [ ] 14.3 Find the K Largest Elements in BST 02/19
   - [ ] ...
 
