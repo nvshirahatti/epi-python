@@ -84,9 +84,9 @@
 - [ ] Chapter 14. Binary Search Trees
 
   - [x] Bootcamp 02/16
-  - [x] 14.1 Test if a Binary Tree Satisfies the BST Property 02/17 -> LC 98
-  - [x] 14.2 Find the First Key Greater Than a Given Value in a BST 02/18 -> None
-  - [x] 14.3 Find the K Largest Elements in BST 02/19 -> LC 230
+  - [x] 14.1 Test if a Binary Tree Satisfies the BST Property 02/16 -> LC 98
+  - [x] 14.2 Find the First Key Greater Than a Given Value in a BST 02/17 -> None
+  - [x] 14.3 Find the K Largest Elements in BST 02/18 -> LC 230
   - [ ] ...
 
 - Chapter 15. Recursion
@@ -94,5 +94,5 @@
   - [x] Bootcamp 01/23
   - [x] 15.1 The Towers of Hanoi Problem 01/23
   - [ ] 15.2 Generate All Nonattacking Places of n-Queens 01/24 -> LC 51 (Hard)
-  - [ ] 15.3 Generate Permutations 01/24 -> LC 46 (Medium)
+  - [ ] 15.3 Generate Permutations 02/17 -> LC 46
   - [ ] ...
