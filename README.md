@@ -96,3 +96,7 @@
   - [ ] 15.2 Generate All Non-attacking Places of n-Queens 01/24 -> LC 51 (Hard)
   - [x] 15.3 Generate Permutations 02/19 -> LC 46
   - [ ] ...
+
+# LeetCode
+
+- 169. Majority Element 02/22 -> Boyer-Moore voting algorithm
