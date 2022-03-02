@@ -93,8 +93,15 @@
 
   - [x] Boot-camp 01/23
   - [x] 15.1 The Towers of Hanoi Problem 01/23
-  - [ ] 15.2 Generate All Non-attacking Places of n-Queens 01/24 -> LC 51 (Hard)
+  - [x] 15.2 Generate All Non-attacking Places of n-Queens 01/24 -> LC 51 (Hard)
   - [x] 15.3 Generate Permutations 02/19 -> LC 46
+  - [ ] ...
+
+- Chapter 16. Dynamic Programming
+  - [ ] Boot-camp 03/02 + 03/03
+  - [ ] 16.1 Count the Number of Score Combinations
+  - [ ] 16.2 Compute the Levenshtein Distance
+  - [ ] 16.3 Count the Number of Ways to Traverse a 2D Array
   - [ ] ...
 
 # LeetCode
