@@ -98,8 +98,8 @@
   - [ ] ...
 
 - Chapter 16. Dynamic Programming
-  - [ ] Boot-camp 03/02 + 03/03
-  - [ ] 16.1 Count the Number of Score Combinations
+  - [x] Boot-camp 03/02
+  - [x] 16.1 Count the Number of Score Combinations 03/03 -> LC 216
   - [ ] 16.2 Compute the Levenshtein Distance
   - [ ] 16.3 Count the Number of Ways to Traverse a 2D Array
   - [ ] ...
