@@ -89,7 +89,7 @@
   - [x] 14.3 Find the K Largest Elements in BST 02/18 -> LC 230
   - [ ] ...
 
-- Chapter 15. Recursion
+- [ ] Chapter 15. Recursion
 
   - [x] Boot-camp 01/23
   - [x] 15.1 The Towers of Hanoi Problem 01/23
@@ -97,7 +97,7 @@
   - [x] 15.3 Generate Permutations 02/19 -> LC 46
   - [ ] ...
 
-- Chapter 16. Dynamic Programming
+- [ ] Chapter 16. Dynamic Programming
   - [x] Boot-camp 03/02
   - [x] 16.1 Count the Number of Score Combinations 03/03 -> LC 216
   - [ ] 16.2 Compute the Levenshtein Distance
