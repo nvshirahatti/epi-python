@@ -107,3 +107,5 @@
 # LeetCode
 
 - [x] 169. Majority Element 02/22 -> Boyer-Moore voting algorithm
+- [x] 88. Merge Sorted Array 03/04
+- [x] 49. Group Anagrams
