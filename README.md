@@ -108,4 +108,6 @@
 
 - [x] 169. Majority Element 02/22 -> Boyer-Moore voting algorithm
 - [x] 88. Merge Sorted Array 03/04
-- [x] 49. Group Anagrams
+- [x] 49. Group Anagrams 03/05
+- [x] 46. Permutations 03/06
+- [x] 47. Permutations II 03/06
