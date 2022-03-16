@@ -107,7 +107,7 @@
 
   - [ ] Chapter 17. Greedy Algorithms and Invariants
     - [x] Boot-camp 03/16
-    - [ ] 17.1 Compute an Optimum Assignment of Tasks
+    - [x] 17.1 Compute an Optimum Assignment of Tasks
     - [ ] 17.2 Schedule to Minimize Waiting Time
     - [ ] 17.3 The Interval Covering Problem
     - ...
