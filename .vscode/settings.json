@@ -1,4 +1,5 @@
 {
   "python.formatting.provider": "black",
-  "markdown.preview.fontFamily": "Verdana"
+  "markdown.preview.fontFamily": "Verdana",
+  "continue.enableTabAutocomplete": false
 }
